@@ -1,2 +1,0 @@
-edlib
--DCATKIN_DEVEL_PREFIX=/root/edlib_ws/devel -DCMAKE_INSTALL_PREFIX=/root/edlib_ws/install -G Unix Makefiles

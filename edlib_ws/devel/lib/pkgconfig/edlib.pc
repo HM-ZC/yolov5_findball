@@ -1,8 +1,0 @@
-prefix=/root/edlib_ws/devel
-
-Name: edlib
-Description: Description of edlib
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
