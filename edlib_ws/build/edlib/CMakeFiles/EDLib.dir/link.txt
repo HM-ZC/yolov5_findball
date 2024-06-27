@@ -1,2 +1,0 @@
-/usr/bin/ar qc /root/edlib_ws/devel/lib/libEDLib.a  CMakeFiles/EDLib.dir/src/ED.cpp.o CMakeFiles/EDLib.dir/src/EDCircles.cpp.o CMakeFiles/EDLib.dir/src/EDColor.cpp.o CMakeFiles/EDLib.dir/src/EDLines.cpp.o CMakeFiles/EDLib.dir/src/EDPF.cpp.o CMakeFiles/EDLib.dir/src/NFA.cpp.o
-/usr/bin/ranlib /root/edlib_ws/devel/lib/libEDLib.a
